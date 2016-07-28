@@ -1,0 +1,26 @@
+{
+  "name": "jawbone-oauth2",
+  "version": "1.0.0",
+  "description": "Authentication module for Jawbone using OAuth 2.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha --reporter nyan 'spec/*'"
+  },
+  "keywords": [
+    "jawbone",
+    "oauth2",
+    "authentication",
+    "token"
+  ],
+  "author": "Chris Ng",
+  "license": "MIT",
+  "dependencies": {
+    "promise": "^7.1.1",
+    "request": "^2.74.0",
+    "simple-oauth2": "^0.7.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
