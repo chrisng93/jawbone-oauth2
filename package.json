@@ -14,6 +14,10 @@
   ],
   "author": "Chris Ng",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisng93/jawbone-oauth2/issues"
+  },
+  "homepage": "https://github.com/chrisng93/jawbone-oauth2",
   "dependencies": {
     "promise": "^7.1.1",
     "request": "^2.74.0",
