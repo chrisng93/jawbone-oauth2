@@ -1,8 +1,5 @@
 # jawbone-oauth2
 
-[![NPM version][npm-image]][npm-url]
-[![NPM downloads][downloads-image]][downloads-url]
-
 > Authentication for the Jawbone API using OAuth 2.0
 
 ## Installation
